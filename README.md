@@ -10,14 +10,8 @@ Add this line to your application's Gemfile:
 
 ```ruby
 group :test, :development do
-  gem 'ramsey_cop'
+  gem "ramsey_cop", source: "https://{GEMFURY_TOKEN}@gem.fury.io/lampogroup/"
 end
-```
-
-Or, for a Ruby library, add this to your gemspec:
-
-```ruby
-spec.add_development_dependency 'ramsey_cop'
 ```
 
 And then run:

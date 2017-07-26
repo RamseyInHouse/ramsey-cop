@@ -15,6 +15,7 @@
     * Update your code
   * Elsif your code does adhere to dev standards || you want to suggest changes
     * Update the default.yml
+      * [Rubocop Reference](https://github.com/bbatsov/rubocop/blob/master/config/default.yml)
     * Submit a PR
 * Make your PR known to the Rails chapter
 
