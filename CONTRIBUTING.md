@@ -10,6 +10,8 @@
 * Pull this gem down
 * Set your gemfile to point your local `ramsey_cop` and run `bundle`
 * Run `rubocop` in your app
+  * `rubocop -D` will display cop names in the offense message and help you
+    quickly find the appropriate override.
 * Review the offenses listed
   * If your code does not adhere to dev standards
     * Update your code
