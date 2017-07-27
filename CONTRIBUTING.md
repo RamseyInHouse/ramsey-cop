@@ -14,9 +14,9 @@
     quickly find the [appropriate override](https://github.com/bbatsov/rubocop/blob/master/config/default.yml)
 * Review the offenses listed
   * If your code does not adhere to dev standards
-    * Update your code
+    * Update the style in your code only as you make changes. There is no need to make style-only updates.
   * Elsif your code does adhere to dev standards || you want to suggest changes
-    * Update the default.yml
+    * Update the default.yml using a single commit per style change.
     * Submit a PR
 * Make your PR known to the Rails chapter
 
