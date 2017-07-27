@@ -1,6 +1,9 @@
 Documentation:
   Enabled: false
 
+Layout/AccessModifierIndentation:
+  EnforcedStyle: outdent
+
 Metrics/LineLength:
   Max: 100
 
