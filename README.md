@@ -4,6 +4,10 @@ Inspired by https://blog.percy.io/share-rubocop-rules-across-all-of-your-repos-f
 
 Ramsey shared style configs.
 
+## Why
+
+https://www.sandimetz.com/blog/2017/6/1/why-we-argue-style
+
 ## Installation
 
 Add this line to your application's Gemfile:
