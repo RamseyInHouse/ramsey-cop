@@ -1,0 +1,3 @@
+inherit_gem:
+  ramsey_cop:
+    - default.yml

@@ -22,16 +22,7 @@ And then run:
 
 ```bash
 $ bundle install
-```
-
-## Usage
-
-Create a `.rubocop.yml` with the following directives:
-
-```yaml
-inherit_gem:
-  ramsey_cop:
-    - default.yml
+$ rails generate ramsey_cop
 ```
 
 Now, run:
