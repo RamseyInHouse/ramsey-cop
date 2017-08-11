@@ -32,3 +32,8 @@ $ bundle exec rubocop
 ```
 
 You do not need to include rubocop directly in your application's dependences. RamseyCop will include a specific version of `rubocop` that is shared across all projects.
+
+## Documentation
+
+* [Introducing RamseyCop to an existing repository](/documentation/existing-repositories.md)
+* [RamseyCop linting in Vim with ALE](/documentation/vim-tips.md)
