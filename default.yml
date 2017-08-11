@@ -7,6 +7,9 @@ Layout/AccessModifierIndentation:
 Metrics/LineLength:
   Max: 100
 
+Style/Alias:
+  EnforcedStyle: prefer_alias_method
+
 Style/PercentLiteralDelimiters:
   PreferredDelimiters:
     '%i': ()
