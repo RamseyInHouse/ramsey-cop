@@ -12,7 +12,7 @@ inherit_gem:
     - default.yml
 ```
 
-* Run `bundle exec rubocop --autogen-config`
+* Run `bundle exec rubocop --auto-gen-config`
   * This will create a `.rubocop_todo.yml` that contains all existing offenses identified by the `RamseyCop` config. This will skip these offenses in the future so that you can just focus on new changes/new offenses.
 * Add `.rubocop_todo.yml` to your `.rubocop.yml` so that will now look like
 
