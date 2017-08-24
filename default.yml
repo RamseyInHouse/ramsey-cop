@@ -4,6 +4,9 @@ Documentation:
 Layout/AccessModifierIndentation:
   EnforcedStyle: outdent
 
+Layout/MultilineOperationIndentation:
+  EnforcedStyle: indented
+
 Metrics/LineLength:
   Max: 120
 
