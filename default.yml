@@ -53,6 +53,9 @@ Style/PercentLiteralDelimiters:
     '%W': ()
     '%x': ()
 
+Style/SignalException:
+  EnforcedStyle: semantic
+
 Style/StringLiterals:
   EnforcedStyle: double_quotes
   Enabled: true
