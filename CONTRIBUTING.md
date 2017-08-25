@@ -20,6 +20,15 @@
     * Submit a PR
 * Make your PR known to the Rails chapter
 
+## Requirements for getting a PR approved
+* Only add/update one cop per commit.
+* Keep the cops defined in `default.yml` in alphabetical order.
+* Follow the precedent set by previous commit messages such as:
+  * Layout/AccessModifierIndentation: set EnforcedStyle: outdent
+  * Style/Alias: set EnforcedStyle: prefer_alias_method
+* If it is not a simple setting, feel free to do something like:
+  * Style/PercentLiteralDelimiters: set PreferredDelimiters
+
 ## Submitting a PR
 * Follow our [workflow](https://github.com/lampo/dev-standards/tree/master/git)
   for branching and pull requests.
