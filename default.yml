@@ -4,6 +4,11 @@ Documentation:
 Layout/AccessModifierIndentation:
   EnforcedStyle: outdent
 
+Metrics/AbcSize:
+  Exclude:
+    - spec/**/*
+    - test/**/*
+
 Metrics/LineLength:
   Max: 120
 
