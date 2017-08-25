@@ -27,6 +27,11 @@ Metrics/CyclomaticComplexity:
 Metrics/LineLength:
   Max: 120
 
+Metrics/MethodLength:
+  Exclude:
+    - spec/**/*
+    - test/**/*
+
 Style/Alias:
   EnforcedStyle: prefer_alias_method
 
