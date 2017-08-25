@@ -35,6 +35,9 @@ Metrics/MethodLength:
 Style/Alias:
   EnforcedStyle: prefer_alias_method
 
+Style/AndOr:
+  EnforcedStyle: conditionals
+
 Style/NumericLiterals:
   Enabled: false
 
@@ -53,4 +56,3 @@ Style/PercentLiteralDelimiters:
 Style/StringLiterals:
   EnforcedStyle: double_quotes
   Enabled: true
-
