@@ -19,6 +19,11 @@ Metrics/BlockNesting:
     - spec/**/*
     - test/**/*
 
+Metrics/CyclomaticComplexity:
+  Exclude:
+    - spec/**/*
+    - test/**/*
+
 Metrics/LineLength:
   Max: 120
 
