@@ -10,6 +10,9 @@ Metrics/LineLength:
 Style/Alias:
   EnforcedStyle: prefer_alias_method
 
+Style/EachWithObject:
+  Enabled: false
+
 Style/PercentLiteralDelimiters:
   PreferredDelimiters:
     '%i': ()
