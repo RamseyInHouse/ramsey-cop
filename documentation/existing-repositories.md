@@ -4,14 +4,7 @@ Here are a few tips for introducing RamseyCop to an existing project
 
 * Delete any existing `.rubocop.yml` config files
 * Run `rails generate ramsey_cop`
-  * Or manually create a new `.rubocop.yml` that contains only
-
-```yaml
-inherit_gem:
-  ramsey_cop:
-    - default.yml
-```
-
+  * Currently this will just copy `default.yml` to `.rubocop.yml`. Once this RamseyCop is available via RubyGems, we can go back to inheriting from `default.yml` instead.
 ## Getting a feel for the current state of your code.
 * Run `bundle exec rubocop -f o` to get a count of violations per cop.
 * Run `bundle exec rubocop -f w` to see your worst offending files.
