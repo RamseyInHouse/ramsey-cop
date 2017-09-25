@@ -38,6 +38,9 @@ Style/Alias:
 Style/AndOr:
   EnforcedStyle: conditionals
 
+Style/Lambda:
+  Enabled: false
+
 Style/NumericLiterals:
   Enabled: false
 
