@@ -39,7 +39,7 @@ Style/AndOr:
   EnforcedStyle: conditionals
 
 Style/FrozenStringLiteralComment:
-  EnforcedStyle: never
+  Enabled: false
 
 Style/Lambda:
   Enabled: false
