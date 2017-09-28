@@ -38,6 +38,9 @@ Style/Alias:
 Style/AndOr:
   EnforcedStyle: conditionals
 
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
 Style/Lambda:
   Enabled: false
 
