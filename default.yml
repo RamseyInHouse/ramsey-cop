@@ -62,3 +62,7 @@ Style/PercentLiteralDelimiters:
 Style/StringLiterals:
   EnforcedStyle: double_quotes
   Enabled: true
+
+Style/StringLiteralsInInterpolation:
+  Enabled: false
+
