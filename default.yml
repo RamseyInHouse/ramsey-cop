@@ -38,6 +38,9 @@ Style/Alias:
 Style/AndOr:
   EnforcedStyle: conditionals
 
+Style/DateTime:
+  Enabled: false
+
 Style/FrozenStringLiteralComment:
   Enabled: false
 
