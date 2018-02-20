@@ -1,7 +1,7 @@
 # Contributing to RamseyCop
 
 ## Getting Started
-* `git clone git@github.com:lampo/ramsey-cop.git`
+* `git clone git@github.com:ramseyinhouse/ramsey-cop.git`
 * `cd ramsey-cop`
 * `bundle`
 
@@ -18,9 +18,8 @@
   * Elsif your code does adhere to dev standards || you want to suggest changes
     * Update the default.yml using a single commit per style change.
     * Submit a PR
-* Make your PR known to the Rails chapter
 
-## Requirements for getting a PR approved
+## Submitting a PR
 * Only add/update one cop per commit.
 * Keep the cops defined in `default.yml` in alphabetical order.
 * Follow the precedent set by previous commit messages such as:
@@ -28,9 +27,5 @@
   * Style/Alias: set EnforcedStyle: prefer_alias_method
 * If it is not a simple setting, feel free to do something like:
   * Style/PercentLiteralDelimiters: set PreferredDelimiters
-
-## Submitting a PR
-* Follow our [workflow](https://github.com/lampo/dev-standards/tree/master/git)
-  for branching and pull requests.
 * After creating a PR, the CODEOWNERS file will assign your PR to the
   appropriate reviewer.
