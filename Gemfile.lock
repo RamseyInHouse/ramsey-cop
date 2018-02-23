@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ramsey_cop (0.7.2)
+    ramsey_cop (0.7.3)
       rubocop (~> 0.52.1)
 
 GEM
