@@ -62,10 +62,6 @@ Style/PercentLiteralDelimiters:
     '%W': ()
     '%x': ()
 
-Style/RegexpLiteral:
-  EnforcedStyle: mixed
-  AllowInnerSlashes: true
-
 Style/StringLiterals:
   EnforcedStyle: double_quotes
   Enabled: true
