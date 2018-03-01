@@ -1,5 +1,7 @@
 # RamseyCop
 
+[![Gem Version](https://badge.fury.io/rb/ramsey_cop.svg)](https://badge.fury.io/rb/ramsey_cop)
+
 Inspired by https://blog.percy.io/share-rubocop-rules-across-all-of-your-repos-f3281fbd71f8
 
 Ramsey shared style configs.
