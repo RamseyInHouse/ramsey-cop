@@ -32,7 +32,7 @@ $ rails generate ramsey_cop
 ```
 
 If you're not in a Rails app, you will need to create a `.rubocop.yml` with the following directives:
-
+ - Note: This will work locally, but will not work with CodeClimate. If you are using CodeClimate, see the documentation linked at the bottom of this page.
 ```yaml
 inherit_gem:
   ramsey_cop:
@@ -51,3 +51,4 @@ You do not need to include rubocop directly in your application's dependencies. 
 
 * [Introducing RamseyCop to an existing repository](/documentation/existing-repositories.md)
 * [RamseyCop linting in Vim with ALE](/documentation/vim-tips.md)
+* [Integrating RamseyCop with CodeClimate](/documentation/codeclimate-setup.md)
