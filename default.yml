@@ -18,6 +18,7 @@ Metrics/BlockLength:
     - spec/**/*
     - test/**/*
     - "*.gemspec"
+    - "**/*.rake"
 
 Metrics/BlockNesting:
   Exclude:
