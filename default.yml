@@ -42,6 +42,11 @@ Metrics/MethodLength:
     - spec/**/*
     - test/**/*
 
+Metrics/ModuleLength:
+  Exclude:
+    - spec/**/*
+    - test/**/*
+
 Style/Alias:
   EnforcedStyle: prefer_alias_method
 
