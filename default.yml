@@ -36,6 +36,10 @@ Metrics/CyclomaticComplexity:
 
 Metrics/LineLength:
   Max: 120
+  Exclude:
+    - config/routes.rb
+    - config/routes/*
+    - db/migrate/*
 
 Metrics/MethodLength:
   Exclude:
