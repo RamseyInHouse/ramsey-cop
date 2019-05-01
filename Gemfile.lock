@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ramsey_cop (0.13.2)
+    ramsey_cop (0.14.0)
       rubocop (~> 0.62)
       rubocop-performance
 
