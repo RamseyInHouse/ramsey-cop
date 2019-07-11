@@ -4,6 +4,7 @@ AllCops:
   Exclude:
     - db/schema.rb
     - vendor/**/*
+    - node_modules/**/*
 
 Documentation:
   Enabled: false
