@@ -6,9 +6,6 @@ AllCops:
     - vendor/**/*
     - node_modules/**/*
 
-Documentation:
-  Enabled: false
-
 Layout/AccessModifierIndentation:
   EnforcedStyle: outdent
 
@@ -62,6 +59,9 @@ Style/AndOr:
   EnforcedStyle: conditionals
 
 Style/DateTime:
+  Enabled: false
+
+Style/Documentation:
   Enabled: false
 
 Style/FrozenStringLiteralComment:
