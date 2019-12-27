@@ -9,6 +9,13 @@ AllCops:
 Layout/AccessModifierIndentation:
   EnforcedStyle: outdent
 
+Layout/LineLength:
+  Max: 120
+  Exclude:
+    - config/routes.rb
+    - config/routes/*
+    - db/migrate/*
+
 Metrics/AbcSize:
   Exclude:
     - spec/**/*
@@ -33,13 +40,6 @@ Metrics/CyclomaticComplexity:
   Exclude:
     - spec/**/*
     - test/**/*
-
-Metrics/LineLength:
-  Max: 120
-  Exclude:
-    - config/routes.rb
-    - config/routes/*
-    - db/migrate/*
 
 Metrics/MethodLength:
   Exclude:
