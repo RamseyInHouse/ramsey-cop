@@ -1,3 +1,4 @@
 # https://help.github.com/articles/about-codeowners/
 
-*   @jwsloan @rickpeyton @matthewmcgarvey
+# https://github.com/orgs/RamseyInHouse/teams/ruby
+*   @RamseyInHouse/ruby
