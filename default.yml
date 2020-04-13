@@ -16,6 +16,12 @@ Layout/LineLength:
     - config/routes/*
     - db/migrate/*
 
+Lint/RaiseException:
+  Enabled: true
+
+Lint/StructNewOverride:
+  Enabled: true
+
 Metrics/AbcSize:
   Exclude:
     - spec/**/*
