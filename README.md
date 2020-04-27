@@ -5,7 +5,7 @@
 
 Inspired by https://blog.percy.io/share-rubocop-rules-across-all-of-your-repos-f3281fbd71f8
 
-Ramsey shared style configs.
+Ramsey shared [RuboCop](https://github.com/rubocop-hq/rubocop) style configs.
 
 ## Why
 
