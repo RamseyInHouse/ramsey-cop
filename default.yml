@@ -19,6 +19,9 @@ Layout/LineLength:
 Lint/RaiseException:
   Enabled: true
 
+Layout/SpaceAroundMethodCallOperator:
+  Enabled: false
+
 Lint/StructNewOverride:
   Enabled: true
 
@@ -68,6 +71,9 @@ Style/DateTime:
   Enabled: false
 
 Style/Documentation:
+  Enabled: false
+
+Style/ExponentialNotation:
   Enabled: false
 
 Style/FrozenStringLiteralComment:
