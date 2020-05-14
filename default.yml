@@ -79,7 +79,7 @@ Style/Documentation:
 
 # TODO: Review this rule!
 Style/ExponentialNotation:
-  Enabled: false
+  Enabled: true
 
 Style/FrozenStringLiteralComment:
   Enabled: false
