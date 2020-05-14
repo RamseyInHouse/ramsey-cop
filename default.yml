@@ -10,7 +10,7 @@ Layout/AccessModifierIndentation:
   EnforcedStyle: outdent
 
 Layout/EmptyLinesAroundAttributeAccessor:
-  Enabled: false
+  Enabled: true
 
 Layout/LineLength:
   Max: 120
@@ -22,6 +22,7 @@ Layout/LineLength:
 Lint/RaiseException:
   Enabled: true
 
+# TODO: Review this rule!
 Layout/SpaceAroundMethodCallOperator:
   Enabled: false
 
@@ -76,6 +77,7 @@ Style/DateTime:
 Style/Documentation:
   Enabled: false
 
+# TODO: Review this rule!
 Style/ExponentialNotation:
   Enabled: false
 
@@ -109,6 +111,7 @@ Style/PercentLiteralDelimiters:
     '%W': ()
     '%x': ()
 
+# TODO: Review this rule!
 Style/SlicingWithRange:
   Enabled: false
 
