@@ -24,7 +24,7 @@ Lint/RaiseException:
 
 # TODO: Review this rule!
 Layout/SpaceAroundMethodCallOperator:
-  Enabled: false
+  Enabled: true
 
 Lint/StructNewOverride:
   Enabled: true
