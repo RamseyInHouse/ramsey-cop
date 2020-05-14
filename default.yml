@@ -110,7 +110,7 @@ Style/PercentLiteralDelimiters:
     '%x': ()
 
 Style/SlicingWithRange:
-  Enabled: false
+  Enabled: true
 
 Style/StringLiterals:
   EnforcedStyle: double_quotes
