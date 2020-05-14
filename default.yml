@@ -77,7 +77,7 @@ Style/Documentation:
   Enabled: false
 
 Style/ExponentialNotation:
-  Enabled: false
+  Enabled: true
 
 Style/FrozenStringLiteralComment:
   Enabled: false
