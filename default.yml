@@ -113,7 +113,7 @@ Style/PercentLiteralDelimiters:
 
 # TODO: Review this rule!
 Style/SlicingWithRange:
-  Enabled: false
+  Enabled: true
 
 Style/StringLiterals:
   EnforcedStyle: double_quotes
