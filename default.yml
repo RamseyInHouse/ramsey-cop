@@ -22,7 +22,6 @@ Layout/LineLength:
 Lint/RaiseException:
   Enabled: true
 
-# TODO: Review this rule!
 Layout/SpaceAroundMethodCallOperator:
   Enabled: true
 
@@ -77,7 +76,6 @@ Style/DateTime:
 Style/Documentation:
   Enabled: false
 
-# TODO: Review this rule!
 Style/ExponentialNotation:
   Enabled: true
 
@@ -111,7 +109,6 @@ Style/PercentLiteralDelimiters:
     '%W': ()
     '%x': ()
 
-# TODO: Review this rule!
 Style/SlicingWithRange:
   Enabled: true
 
