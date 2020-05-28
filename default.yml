@@ -5,6 +5,7 @@ AllCops:
     - db/schema.rb
     - vendor/**/*
     - node_modules/**/*
+  NewCops: disable
 
 Layout/AccessModifierIndentation:
   EnforcedStyle: outdent
