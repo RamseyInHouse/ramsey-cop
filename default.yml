@@ -59,6 +59,10 @@ Metrics/MethodLength:
     - db/migrate/*
     - spec/**/*
     - test/**/*
+  CountAsOne:
+    - hash
+    - array
+    - heredoc
 
 Metrics/ModuleLength:
   Exclude:
